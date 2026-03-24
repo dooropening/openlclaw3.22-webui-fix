@@ -1,0 +1,9 @@
+Legend: production dependency, optional only, dev only
+
+openclaw-control-ui /workspace/openclaw/ui (PRIVATE)
+
+dependencies:
+@noble/ed25519 3.0.1
+dompurify 3.3.3
+lit 3.3.2
+marked 17.0.5

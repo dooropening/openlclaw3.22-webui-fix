@@ -1,0 +1,4 @@
+### OpenClaw UI Build Environment
+Node.js version: v22.22.0
+NPM version: 10.9.4
+PNPM version: 10.23.0
