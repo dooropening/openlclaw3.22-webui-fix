@@ -4,6 +4,6 @@ OpenClaw UI Fix Instructions:
 
 Applicable Version: Versions of OpenClaw that prompt missing UI resources after upgrading.
 
-Manual Installation Method: Extract the compressed file "control-ui" to node_modules/openclaw/dist/ in the production environment.
+Manual Installation Method: Extract the compressed file "control-ui.zip" to node_modules/openclaw/dist/ in the production environment.
 
 Reference build-info.txt
